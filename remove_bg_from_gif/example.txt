@@ -1,0 +1,1 @@
+python3.11 remove_bg_from_gif.py '1.gif' -o '1.webp'

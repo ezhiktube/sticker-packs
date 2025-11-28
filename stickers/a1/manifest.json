@@ -1,0 +1,25 @@
+{
+    "title" : "Анимированные животные",
+    "description" : "Анимированные животные",
+    "thumbnail": "1.webp",
+    "author": "ez",   
+
+    "stickers": [
+        {"file": "1.webp", "title": "слон"},
+        {"file": "2.webp", "title": "свинья"},
+        {"file": "3.webp", "title": "медведь"},
+        {"file": "4.webp", "title": "лягушка"},
+        {"file": "5.webp", "title": "змея"},
+        {"file": "6.webp", "title": "попугай"},
+        {"file": "7.webp", "title": "заяц"},
+        {"file": "8.webp", "title": "кот"},
+        {"file": "9.webp", "title": "цыпленок"},
+        {"file": "10.webp", "title": "овечка"},
+        {"file": "11.webp", "title": "бобр"},
+        {"file": "12.webp", "title": "обезьяна"},
+        {"file": "13.webp", "title": "тигр"},
+        {"file": "14.webp", "title": "улитка"},
+        {"file": "15.webp", "title": "паук"},
+        {"file": "16.webp", "title": "мышь"}
+    ]
+}
