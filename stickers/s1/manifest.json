@@ -1,0 +1,37 @@
+{
+    "title" : "Реакции",
+    "description" : "Реакции",
+    "thumbnail": "26.webp",
+    "author": "ez",   
+
+    "stickers": [
+        {"file": "1.png", "title": "-"},
+        {"file": "2.png", "title": "-"},
+        {"file": "3.png", "title": "-"},
+        {"file": "4.png", "title": "-"},
+        {"file": "5.png", "title": "-"},
+        {"file": "6.png", "title": "-"},
+        {"file": "7.png", "title": "-"},
+        {"file": "8.png", "title": "-"},
+        {"file": "9.png", "title": "-"},
+        {"file": "10.png", "title": "-"},
+        {"file": "11.png", "title": "-"},
+        {"file": "12.png", "title": "-"},
+        {"file": "13.png", "title": "-"},
+        {"file": "14.png", "title": "-"},
+        {"file": "15.png", "title": "-"},
+        {"file": "16.png", "title": "-"},
+        {"file": "17.png", "title": "-"},
+        {"file": "18.png", "title": "-"},
+        {"file": "19.png", "title": "-"},
+        {"file": "20.png", "title": "-"},
+        {"file": "21.png", "title": "-"},
+        {"file": "22.png", "title": "-"},
+        {"file": "23.png", "title": "-"},
+        {"file": "24.png", "title": "-"},
+        {"file": "25.png", "title": "-"},
+        {"file": "26.png", "title": "-"},
+        {"file": "27.png", "title": "-"}
+        
+    ]
+}
